@@ -66,7 +66,7 @@
 *   618: **over函数**、**row_number()**、**rank()**和**Partition By**的使用
 *   512: **in**的使用
     *   多个字段可用括号框起来
-*   597: **group by**之后使用**count()**返回的是每一组的行数
-*   1211: **AVG()**、**SUM()**括号中可添加条件
-*   1132: **count()**排除**'null'**值，如`count(number > 0 or null)`或`ifnull(count(number), 0)`都是统计number字段不为**'null'**的数量
+*   597: **group by**之后使用 **count()** 返回的是每一组的行数
+*   1211: **AVG()**、**SUM()** 括号中可添加条件
+*   1132: **count()** 排除 **'null'** 值，如`count(number > 0 or null)`或`ifnull(count(number), 0)`都是统计number字段不为 **'null'** 的数量
 
