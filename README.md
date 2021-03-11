@@ -63,7 +63,7 @@
 
 #### Note
 
-*   618: **over函数**、**row_number()**、**rank()**和**Partition By**的使用
+*   618: **over函数**、**row_number()**、**rank()** 和 **Partition By**的使用
 *   512: **in**的使用
     *   多个字段可用括号框起来
 *   597: **group by**之后使用 **count()** 返回的是每一组的行数
