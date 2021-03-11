@@ -32,7 +32,7 @@
 | 619  | [Biggest Single Number](/619%20-%20Biggest%20Single%20Number.sql) | [619. Biggest Single Number](https://leetcode-cn.com/problems/biggest-single-number/) |
 | 1045 | [Customers Who Bought All Products](/1045%20-%20Customers%20Who%20Bought%20All%20Products.sql) | [1045. Customers Who Bought All Products](https://leetcode-cn.com/problems/customers-who-bought-all-products/) |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](/1050%20-%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql) | [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode-cn.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) |
-| 1068 | [Product Sales Analysis I](/1068%20-%20Product%20Sales%20Analysis I.sql) | [1068. Product Sales Analysis I](https://leetcode-cn.com/problems/product-sales-analysis-i/) |
+| 1068 | [Product Sales Analysis I](/1068%20-%20Product%20Sales%20Analysis%20I.sql) | [1068. Product Sales Analysis I](https://leetcode-cn.com/problems/product-sales-analysis-i/) |
 | 1069 | [Product Sales Analysis II](/1069%20-%20Product%20Sales%20Analysis%20II.sql) | [1069. Product Sales Analysis II](https://leetcode-cn.com/problems/product-sales-analysis-ii/) |
 | 1070 | [Product Sales Analysis III](/1070%20-%20Product%20Sales%20Analysis%20III.sql) | [1070. Product Sales Analysis III](https://leetcode-cn.com/problems/product-sales-analysis-iii/) |
 | 1075 | [Project Employees I](/1075%20-%20Project%20Employees%20I.sql) | [1075. Project Employees I](https://leetcode-cn.com/problems/project-employees-i/) |
